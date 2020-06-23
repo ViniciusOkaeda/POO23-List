@@ -61,13 +61,13 @@ namespace AULA23LISTAOBJ
 
             List<Cartao> cartoes = new List<Cartao>();
 
-            cartoes.Add( new Cartao ("Vinicius", 976, 239528, "Visa"));
-            cartoes.Add( new Cartao ("Birosmar", 946, 769528, "MasterCard"));
-            cartoes.Add( new Cartao ("Jonoscreido", 976, 239528, "Elo"));
+            cartoes.Add( new Cartao ("Vinicius", 976, 239528, "Visa", "Jun/21"));
+            cartoes.Add( new Cartao ("Birosmar", 946, 769528, "MasterCard", "Mar/29"));
+            cartoes.Add( new Cartao ("Jonoscreido", 976, 239528, "Elo", "Jan/25"));
 
             foreach(Cartao qual in cartoes){
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine($"\n Cartao {qual.Titular} - {qual.Cvv} - {qual.Numero} - {qual.Bandeira}");
+                Console.WriteLine($"\n Cartao {qual.Titular} - {qual.Cvv} - {qual.Numero} - {qual.Bandeira} - {qual.Validade}");
                 Console.ResetColor();
             }
 
