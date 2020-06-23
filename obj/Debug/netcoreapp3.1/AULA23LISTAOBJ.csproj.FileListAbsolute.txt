@@ -1,0 +1,13 @@
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\obj\Debug\netcoreapp3.1\AULA23LISTAOBJ.csprojAssemblyReference.cache
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\obj\Debug\netcoreapp3.1\AULA23LISTAOBJ.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\obj\Debug\netcoreapp3.1\AULA23LISTAOBJ.AssemblyInfoInputs.cache
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\obj\Debug\netcoreapp3.1\AULA23LISTAOBJ.AssemblyInfo.cs
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\bin\Debug\netcoreapp3.1\AULA23LISTAOBJ.exe
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\bin\Debug\netcoreapp3.1\AULA23LISTAOBJ.deps.json
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\bin\Debug\netcoreapp3.1\AULA23LISTAOBJ.runtimeconfig.json
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\bin\Debug\netcoreapp3.1\AULA23LISTAOBJ.runtimeconfig.dev.json
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\bin\Debug\netcoreapp3.1\AULA23LISTAOBJ.dll
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\bin\Debug\netcoreapp3.1\AULA23LISTAOBJ.pdb
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\obj\Debug\netcoreapp3.1\AULA23LISTAOBJ.dll
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\obj\Debug\netcoreapp3.1\AULA23LISTAOBJ.pdb
+C:\Users\vinicius\Documents\AULA23LISTAOBJ\obj\Debug\netcoreapp3.1\AULA23LISTAOBJ.genruntimeconfig.cache
